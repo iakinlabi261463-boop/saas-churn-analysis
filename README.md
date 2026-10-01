@@ -1,3 +1,7 @@
+## Live Dashboard
+
+[Open the interactive Streamlit dashboard](https://saas-churn-analysis-9wrtueuznbvbjaqthexarv.streamlit.app/)
+
 # SaaS Customer Churn & Retention Analysis
 
 A data analysis and machine learning project designed to help a SaaS business understand why customers churn and identify the highest-risk accounts before they cancel.
